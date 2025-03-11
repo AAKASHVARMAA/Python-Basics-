@@ -1,0 +1,7 @@
+A tuple in Python is a immutable (unchangeable) collection of ordered elements, which can hold a variety of data types. It is similar to a list, but unlike lists, tuples cannot be modified once they are created.
+
+Key Characteristics:
+Immutable: Once a tuple is created, its values cannot be changed, added, or removed.
+Ordered: Elements in a tuple have a defined order, and the order is preserved.
+Can hold multiple data types: Tuples can store integers, strings, floats, and other types of data in a single collection.
+Defined with parentheses: Tuples are created using parentheses () instead of square brackets [].
